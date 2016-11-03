@@ -14,9 +14,6 @@ strong.help  {
 	color: #444;
 	cursor: help;
 }
-strong.ferie  {
-	color: #fc0000;
-}
 h1 {
 	font: normal 2.5em "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color: #000;
@@ -45,7 +42,6 @@ p cite{
 html[xmlns] #nav {
 	display: block;
 }
- 
 * html {
 	height: 1%;
 }

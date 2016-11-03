@@ -1,1 +1,1 @@
-# Just a personal page @ https://nastavnjc.github.io
+# My on-line resume @ https://nastavnjc.github.io
